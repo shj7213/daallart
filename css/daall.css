@@ -13,15 +13,19 @@ li {
     padding-left: 7%;
 }
 
-.image {
-    display: block;
+div {
+    text-align: center;
+}
+
+
+.images {
     max-width: 100%;
     height: auto;
 }
 
 .logo {
-    width: 20%;
-    right: 10%;
-    top: 10%;
+max-width: 20%;
+    left: 10%;
+    bottom: 10%;
 
 }
