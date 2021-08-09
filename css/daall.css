@@ -17,11 +17,11 @@ li {
     display: block;
     max-width: 100%;
     height: auto;
-
 }
 
 .logo {
-    left: 10%;
-    bottom: 10%;
+    width: 20%;
+    right: 10%;
+    top: 10%;
 
 }
