@@ -19,3 +19,9 @@ li {
     height: auto;
     display: block;
 }
+
+.logo {
+    left: 10%;
+    bottom: 10%;
+
+}
